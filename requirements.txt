@@ -2,6 +2,7 @@
 notebook
 ipykernel
 keras
+tensorflow
 numpy
 pandas
 matplotlib
