@@ -7,5 +7,5 @@ numpy
 pandas
 matplotlib
 tqdm
-seaborn
+seaborn 
 scipy
